@@ -28,7 +28,7 @@ spring.datasource.password=VOTRE_MOT_DE_PASSE
 
 Utilisez Maven pour compiler et exécuter l'application :
 
-Exécutez `SpringExamB3Application.java` dans `src/main/java/com/example/DogAPI_Spring`
+Exécutez `DogApiSpringApplication.java` dans `src/main/java/com/example/DogAPI_Spring`
 ```bash
 mvn clean install
 mvn spring-boot:run
