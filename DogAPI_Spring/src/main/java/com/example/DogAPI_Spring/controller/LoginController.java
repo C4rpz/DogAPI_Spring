@@ -1,10 +1,10 @@
-package com.security.controller;
+package com.example.DogAPI_Spring.controller;
 
-import com.security.config.JwtTokenProvider;
-import com.security.dto.AuthResponseDTO;
-import com.security.dto.LoginDTO;
-import com.security.entity.User;
-import com.security.service.UserService;
+import com.example.DogAPI_Spring.config.JwtTokenProvider;
+import com.example.DogAPI_Spring.dto.AuthResponseDTO;
+import com.example.DogAPI_Spring.dto.LoginDTO;
+import com.example.DogAPI_Spring.entity.User;
+import com.example.DogAPI_Spring.service.UserService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

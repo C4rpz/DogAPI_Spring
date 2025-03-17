@@ -1,8 +1,8 @@
-package com.security.service;
+package com.example.DogAPI_Spring.service;
 
-import com.security.entity.Role;
-import com.security.entity.User;
-import com.security.repository.UserRepository;
+import com.example.DogAPI_Spring.entity.Role;
+import com.example.DogAPI_Spring.entity.User;
+import com.example.DogAPI_Spring.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

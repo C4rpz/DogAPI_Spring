@@ -1,4 +1,4 @@
-package com.security.dto;
+package com.example.DogAPI_Spring.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

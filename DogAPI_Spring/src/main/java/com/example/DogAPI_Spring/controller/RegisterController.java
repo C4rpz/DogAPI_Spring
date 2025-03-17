@@ -1,7 +1,7 @@
-package com.security.controller;
+package com.example.DogAPI_Spring.controller;
 
-import com.security.entity.User;
-import com.security.service.UserService;
+import com.example.DogAPI_Spring.entity.User;
+import com.example.DogAPI_Spring.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

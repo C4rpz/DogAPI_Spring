@@ -1,4 +1,4 @@
-package com.security.controller;
+package com.example.DogAPI_Spring.controller;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;

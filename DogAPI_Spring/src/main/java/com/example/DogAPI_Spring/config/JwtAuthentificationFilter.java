@@ -1,4 +1,4 @@
-package com.security.config;
+package com.example.DogAPI_Spring.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

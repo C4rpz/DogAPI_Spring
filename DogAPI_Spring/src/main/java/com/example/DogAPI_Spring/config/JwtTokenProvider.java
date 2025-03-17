@@ -1,4 +1,4 @@
-package com.security.config;
+package com.example.DogAPI_Spring.config;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;
