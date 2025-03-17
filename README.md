@@ -4,9 +4,9 @@
 
 Pour commencer avec cette application, suivez les étapes ci-dessous :
 
-### Cloner le dépôt
+### Cloner le Repository
 
-Tout d'abord, clonez le dépôt depuis GitHub :
+Tout d'abord, clonez le repository depuis GitHub :
 
 ```bash
 git clone https://github.com/C4rpz/DogAPI_Spring.git 
